@@ -141,7 +141,7 @@ Through this project, I practiced:
 
 **Your Name**
 
-Java | Selenium WebDriver | TestNG | Manual Testing | Automation Testing
+Java | Selenium WebDriver | TestNG | Manual Testing | Automation Testing.
 
 ---
 
